@@ -1,4 +1,4 @@
-class Car{
+class python{
    String brand;
    double price;
 }
